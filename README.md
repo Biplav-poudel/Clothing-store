@@ -5,7 +5,7 @@
 
 A modern e-commerce frontend for the **Aurora** clothing brand.
 
-**Loom** is a responsive clothing store focused on graphic tees and curated pieces. It includes product browsing, category filters, a shopping bag, favorites, search, and a clean, accessible design.
+**Aurora** is a responsive clothing store focused on graphic tees and curated pieces. It includes product browsing, category filters, a shopping bag, favorites, search, and a clean, accessible design.
 
 ---
 

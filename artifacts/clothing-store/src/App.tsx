@@ -177,7 +177,7 @@ function Home() {
           href="#top"
           data-testid="link-home"
         >
-          Aurora<span aria-hidden="true">.</span>
+          Aurora<span aria-hidden="true"></span>
         </a>
 
         <nav
@@ -421,9 +421,9 @@ function Home() {
           </div>
 
           <div className="hero-accent">
-            20%
+            Find your 
             <br />
-            OFF
+            frequency
           </div>
 
           <div className="hero-number">

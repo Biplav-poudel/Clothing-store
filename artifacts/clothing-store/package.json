@@ -3,9 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+<<<<<<< HEAD
     "dev": "tsx watch src/app.ts",
     "build": "tsc",
     "start": "node dist/app.js"
+=======
+    "dev": "vite --config vite.config.ts --host 0.0.0.0",
+    "build": "vite build --config vite.config.ts",
+    "serve": "vite preview --config vite.config.ts --host 0.0.0.0",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "packageManager": "pnpm@11.22.0"
+>>>>>>> b896d8d (chore: update project configuration)
   },
   "dependencies": {
     "express": "^5.1.0",

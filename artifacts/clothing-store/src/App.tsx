@@ -11,6 +11,7 @@ import {
   Sun,
   X,
 } from 'lucide-react';
+import pinoHttp from "pino-http";
 import { ErrorBoundary } from '@/components/error-boundary';
 import { Toaster } from '@/components/ui/toaster';
 import { TooltipProvider } from '@/components/ui/tooltip';
